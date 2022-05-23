@@ -9,8 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/benoitdat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="benoitdat" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/datcharrybenoit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="datcharrybenoit" height="30" width="40" /></a>
+<a href="https://twitter.com/benoitdat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/c919601f7ee4d1b5a7ed75a4250601c32395c45c/src/images/icons/Social/twitter.svg" alt="benoitdat" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/datcharrybenoit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/c919601f7ee4d1b5a7ed75a4250601c32395c45c/src/images/icons/Social/linked-in-alt.svg" alt="datcharrybenoit" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
